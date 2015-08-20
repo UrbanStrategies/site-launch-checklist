@@ -1,4 +1,4 @@
-# DataMade Site Launch Checklist
+# Urban Strategies Council Site Launch Checklist
 A checklist of miscellaneous tasks to do before launching a public website. 
 
 ## Usage
